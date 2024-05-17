@@ -1,0 +1,19 @@
+{
+  "name": "slow-promise",
+  "version": "1.0.0",
+  "description": "Rate limit promises",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorganBennetDev/slow-promise.git"
+  },
+  "author": "Morgan Bennet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorganBennetDev/slow-promise/issues"
+  },
+  "homepage": "https://github.com/MorganBennetDev/slow-promise#readme"
+}
